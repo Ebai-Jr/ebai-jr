@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Ebai Jr, a Computer Engineer.
 <!--
 **Ebai-Jr/ebai-jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
